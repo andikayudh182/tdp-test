@@ -10,4 +10,4 @@
 
   - jalankan "php artisan serve", jika ada warning generate key diklik saja
  
-  Notes: Untuk db saya simpan di folder DATABASE, nanti tinggal import aja
+  Notes: Untuk db saya simpan di folder **DATABASE TDP**, nanti tinggal import aja
